@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bunane
+- 👋 Hi, I’m Jack Bu
 - 👀 I’m interested in create bugs
 - 🌱 I’m currently learning bugfix
 - 💞️ I’m looking to collaborate on my onle
